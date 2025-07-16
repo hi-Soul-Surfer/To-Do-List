@@ -8,9 +8,8 @@ A sleek and simple To-Do List built using Java Swing.
 - 💾 Tasks saved locally 
 
 ## Run Instructions 
-```bash 
-javac toDoPac/*.java
-java toDoPac.ToDoGUI ``` 
+javac toDoPac/*.java` 
+java toDoPac.ToDoGUI`
 
 ## 📷 Screenshot 
 Here’s what the app looks like in action: 

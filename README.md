@@ -1,5 +1,5 @@
-# 📝 Java To-Do List GUI 
-App A sleek and simple To-Do List desktop app built using Java Swing. 
+# 📝 Java To-Do List GUI APP
+A sleek and simple To-Do List built using Java Swing. 
 
 ## Features 
 - ✅ Add/view/complete/delete tasks 
@@ -8,7 +8,9 @@ App A sleek and simple To-Do List desktop app built using Java Swing.
 - 💾 Tasks saved locally 
 
 ## Run Instructions 
-```bash javac toDoPac/*.java java toDoPac.ToDoGUI ``` 
+```bash 
+javac toDoPac/*.java
+java toDoPac.ToDoGUI ``` 
 
 ## 📷 Screenshot 
 Here’s what the app looks like in action: 
